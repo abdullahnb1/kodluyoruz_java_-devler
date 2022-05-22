@@ -2,7 +2,7 @@ package Giris;
 
 import java.util.Scanner;
 
-public class Baslangic {
+public class NotOrtalamasi {
     public static void main(String[] args) {
         //Değişkenleri tanımladık.
         int matematik, fizik, kimya, türkce, tarih, müzik;
